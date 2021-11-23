@@ -1,11 +1,14 @@
 # `ut-thesis` LaTeX class
 
 The `ut-thesis` document class for LaTeX implements the formatting requirements of
-the University of Toronto School of Graduate Studies (SGS), as of Fall 2020.
+the University of Toronto School of Graduate Studies (SGS), as of Fall 2021.
+
+## Acknowledgement
+This repo's baseline is forked off from Jesse Knight's [repo](https://github.com/jessexknight/ut-thesis)
 
 ## Contents
 
-Within this [repo](https://github.com/jessexknight/ut-thesis):
+Within this [repo](https://github.com/raeidsaqur/ut-cs-thesis):
 
 - `ut-thesis/`: source code to generate `ut-thesis.cls` class file & `ut-thesis.pdf` documentation
 - `test/`: some example usage of the class, including:
@@ -38,7 +41,7 @@ There are three main ways to install the class:
 ## Issues & Requests
 
 ... are welcome!
-Please file them [here](https://github.com/jessexknight/ut-thesis) on GitHub.
+Please file them [here](https://github.com/raeidsaqur/ut-cs-thesis) on GitHub.
 
 ## Versions
 
